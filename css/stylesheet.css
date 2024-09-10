@@ -4,7 +4,8 @@ img{
     object-fit: cover;
 }
 .container{
-    background-color: #8f8f8f;
+    background-color: #b2b2b2;
     width: 500px;
     margin: auto;
+    padding: 5px;
 }
